@@ -1,0 +1,24 @@
+_repo: The-Cabinetmaker-in-Eighteenth-Century-Williamsburg_57211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Mills
+    gutenberg_agent_id: '49247'
+    url: http://www.gutenberg.org/2009/agents/49247
+  editor:
+    agent_name: Ford, Thomas K.
+    gutenberg_agent_id: '49248'
+    url: http://www.gutenberg.org/2009/agents/49248
+description: ''
+gutenberg_issued: '2018-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cabinetmaker in Eighteenth-Century Williamsburg
+url: http://www.gutenberg.org/ebooks/57211
